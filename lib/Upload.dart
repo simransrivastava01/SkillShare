@@ -98,7 +98,7 @@ class _UploadPageState extends State<UploadPage>
     // TODO: implement build
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("Upload Your Food",
+        title: new Text("Upload Your Skills",
           style: TextStyle(fontSize: 20, color: Colors.grey),
         ),
         centerTitle: true,
