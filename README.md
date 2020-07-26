@@ -1,4 +1,3 @@
-# food
 
 A new Flutter application.
 
